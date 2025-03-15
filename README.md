@@ -44,7 +44,7 @@ A modern, AI-enhanced e-commerce platform built with React, TypeScript, and Tail
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-ecommerce.git
+git clone https://github.com/Karthishkm/AI-Powerd-ecommerce.git
 ```
 
 2. Install dependencies:
